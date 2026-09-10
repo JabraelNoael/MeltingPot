@@ -1,0 +1,26 @@
+# gamerules
+gamerule advance_time false
+gamerule advance_weather false
+gamerule allow_entering_nether_using_portals false
+gamerule block_drops false
+gamerule forgive_dead_players false
+gamerule immediate_respawn true
+gamerule keep_inventory true
+gamerule max_block_modifications 999999999
+gamerule max_command_forks 10000
+gamerule max_command_sequence_length 999999999
+gamerule mob_griefing false
+gamerule minecraft:natural_health_regeneration false
+gamerule minecraft:random_tick_speed 0
+gamerule minecraft:raids false
+gamerule minecraft:respawn_radius 0
+gamerule minecraft:show_death_messages false
+gamerule minecraft:spawn_mobs false
+gamerule minecraft:spawn_monsters false
+gamerule minecraft:spawn_patrols false
+gamerule minecraft:spawn_phantoms false
+gamerule minecraft:spawn_wandering_traders false
+gamerule minecraft:spawn_wardens false
+gamerule minecraft:spawner_blocks_work false
+gamerule minecraft:spectators_generate_chunks true
+gamerule minecraft:universal_anger true
