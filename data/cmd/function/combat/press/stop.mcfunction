@@ -1,0 +1,1 @@
+say riposte (if deflect landed) | lower blade (if only blocked or deflect failed)

@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "mbt": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "player": {},
+        "item": {
+          "items": "minecraft:command_block",
+          "predicates": {
+            "minecraft:custom_data": "{weapon:1b}"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "cmd:combat/mbt"
+  }
+}

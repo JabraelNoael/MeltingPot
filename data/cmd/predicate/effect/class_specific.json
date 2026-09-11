@@ -1,0 +1,68 @@
+{
+  "condition": "minecraft:any_of",
+  "terms": [
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "reload_time": {
+          "min": 1
+        }
+      }
+    },
+	{
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "enlarged_time": {
+          "min": 1
+        }
+      }
+    },
+	{
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "ground_break_time": {
+          "min": 1
+        }
+      }
+    },
+	{
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "chief_warding_time": {
+          "min": 1
+        }
+      }
+    },
+	{
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "reanimated_time": {
+          "min": 1
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "dragon_breath_time": {
+          "min": 1
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "blaze_run_time": {
+          "min": 1
+        }
+      }
+    }
+  ]
+}
