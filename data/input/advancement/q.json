@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "q": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {},
+        "items": [
+          {
+            "items": "minecraft:command_block",
+            "predicates": {
+              "minecraft:custom_data": "{petal:1b}"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "q"
+    ]
+  ],
+  "rewards": {
+    "function": "input:q"
+  }
+}

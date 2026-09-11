@@ -1,0 +1,1 @@
+$execute if entity @s[tag=$(style)] at @s anchored eyes run function petal:cast/$(style)/m2/root

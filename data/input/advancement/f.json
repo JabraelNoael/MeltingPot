@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "f": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "slots": {
+            "weapon.offhand": {
+              "items": "minecraft:command_block",
+              "predicates": {
+                "minecraft:custom_data": "{petal:1b}"
+              }
+            }
+          }
+        },
+        "items": [
+          {
+            "items": "minecraft:command_block",
+            "predicates": {
+              "minecraft:custom_data": "{petal:1b}"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "f"
+    ]
+  ],
+  "rewards": {
+    "function": "input:f"
+  }
+}

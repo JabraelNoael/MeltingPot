@@ -1,0 +1,32 @@
+summon area_effect_cloud ^ ^ ^1 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^2 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^3 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^4 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^5 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^6 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^7 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^8 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^9 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^10 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^11 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^12 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^13 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^14 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^15 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^16 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^17 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^18 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^19 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^20 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^21 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^22 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^23 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^24 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^25 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^26 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^27 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^28 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^29 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+summon area_effect_cloud ^ ^ ^30 {Tags:["dummy"],Radius:0f,Duration:0,WaitTime:1}
+execute as @e[tag=dummy] at @s run function petal:cast/spring/m2/curve_to_terrain
+execute at @n[tag=dummy,sort=furthest] run teleport @s ~ ~ ~

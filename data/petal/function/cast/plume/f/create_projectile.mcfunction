@@ -1,0 +1,1 @@
+$summon snowball ~ ~ ~ {Owner:[I;0,0,0,0],Motion:[$(Pos)],Item:{id:"minecraft:command_block",count:1,components:{"minecraft:custom_model_data":{floats:[1],flags:[1],strings:["1"]}}}}

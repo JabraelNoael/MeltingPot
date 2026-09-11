@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "m2": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "player": {},
+        "item": {
+          "items": "minecraft:command_block",
+          "predicates": {
+            "minecraft:custom_data": "{petal:1b}"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "m2"
+    ]
+  ],
+  "rewards": {
+    "function": "input:m2"
+  }
+}
