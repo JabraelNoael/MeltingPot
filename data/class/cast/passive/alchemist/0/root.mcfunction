@@ -1,0 +1,2 @@
+execute if predicate parent:class/alchemist_passive0 run return run function parent:class/cast/passive/alchemist/0/passive1
+execute as @e[tag=cauldron,distance=1.25..] if score @s player = @p player run kill @s

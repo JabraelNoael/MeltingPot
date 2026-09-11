@@ -1,0 +1,9 @@
+execute if score @s category = $gear category unless block ~ ~ ~ white_shulker_box{Items:[{Slot:9b,components:{"minecraft:custom_data":{menu:1}}}]} run function parent:menu/wsb/gui/run/gear/weapons
+execute if score @s category = $gear category unless block ~ ~ ~ white_shulker_box{Items:[{Slot:1b,components:{"minecraft:custom_data":{menu:1}}}]} run function parent:menu/wsb/gui/run/gear/armor
+execute if score @s category = $gear category unless block ~ ~ ~ white_shulker_box{Items:[{Slot:11b,components:{"minecraft:custom_data":{menu:1}}}]} run function parent:menu/wsb/gui/run/gear/abilities
+execute if score @s category = $gear category unless block ~ ~ ~ white_shulker_box{Items:[{Slot:3b,components:{"minecraft:custom_data":{menu:1}}}]} run function parent:menu/wsb/gui/run/gear/accessories
+execute if score @s category = $gear category unless block ~ ~ ~ white_shulker_box{Items:[{Slot:13b,components:{"minecraft:custom_data":{menu:1}}}]} run function parent:menu/wsb/gui/run/gear/utilities
+execute if score @s category = $gear category unless block ~ ~ ~ white_shulker_box{Items:[{Slot:5b,components:{"minecraft:custom_data":{menu:1}}}]} run function parent:menu/wsb/gui/run/gear/runes
+execute if score @s category = $gear category unless block ~ ~ ~ white_shulker_box{Items:[{Slot:15b,components:{"minecraft:custom_data":{menu:1}}}]} run function parent:menu/wsb/gui/run/gear/food
+execute if score @s category = $gear category unless block ~ ~ ~ white_shulker_box{Items:[{Slot:7b,components:{"minecraft:custom_data":{menu:1}}}]} run function parent:menu/wsb/gui/run/gear/pets
+execute if score @s category = $gear category unless block ~ ~ ~ white_shulker_box{Items:[{Slot:17b,components:{"minecraft:custom_data":{menu:1}}}]} run function parent:menu/wsb/gui/run/gear/deployables

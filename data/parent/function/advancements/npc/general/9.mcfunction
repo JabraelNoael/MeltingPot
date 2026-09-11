@@ -1,0 +1,2 @@
+playsound minecraft:entity.villager.trade voice @a ~ ~ ~ 0.5 0.77
+tellraw @s [{"text":"\n<"},{"text":"General Bar'lo","color":"yellow"},{"text":"> "},{"text":"Good, don't be a stranger, meet the others at the camp, settle down, rest up, then prepare for your first mission"}]

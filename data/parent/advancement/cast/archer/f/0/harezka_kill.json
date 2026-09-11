@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "implant_harezka": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "player": {
+          "nbt": "{Tags:[\"harezka\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "parent:cast/f/archer/0/f2_kill"
+  }
+}

@@ -1,0 +1,1 @@
+execute if entity @s[scores={mbt.cd=0,mbt.cdd=0}] anchored eyes run function parent:class/cast/mbt/4/mbt4-1

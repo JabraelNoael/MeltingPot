@@ -1,0 +1,1 @@
+execute as @s[tag=mbt0] at @s run function parent:cast/mbt/demolitionist/0/mbt2-tick

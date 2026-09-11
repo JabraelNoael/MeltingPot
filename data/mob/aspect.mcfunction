@@ -1,0 +1,1 @@
+execute if entity @s[tag=fire_aspect] run function parent:mob/aspect/fire

@@ -1,0 +1,4 @@
+#rocketeer
+$summon arrow ^ ^ ^ {Tags:["new","aec","kill_grounded","projectile","rocketeer","mbt0"],pickup:2b,damage:0d,SoundEvent:"entity.firework_rocket.blast_far",Motion:$(Motion),NoGravity:1b,Passengers:[{id:"minecraft:item_display",Tags:["new","aec","cast","rocketeer","mbt0"],Rotation:$(Rotation),transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0.7058574f,0f,0f,0.70835406f],translation:[0f,-0.5f,0f],scale:[1f,1f,1f]},item:{id:"minecraft:firework_rocket",count:1,components:{"minecraft:fireworks":{}}}}]}
+scoreboard players add $link link 1
+execute as @e[tag=new,limit=2,sort=nearest] run function parent:class/cast/mbt/rocketeer/0/mbt2-link

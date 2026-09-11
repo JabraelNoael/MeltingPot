@@ -1,0 +1,2 @@
+playsound minecraft:entity.villager.trade voice @a ~ ~ ~ 0.5 0.77
+tellraw @s [{"text":"\n<"},{"text":"General Bar'lo","color":"yellow"},{"text":"> "},{"text":"You said you're a <class>? Right? How highly decorated were you?"}]

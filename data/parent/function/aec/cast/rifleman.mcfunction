@@ -1,0 +1,1 @@
+execute if entity @s[tag=f0] at @s run function parent:cast/f/rifleman/0/f2-tick

@@ -1,0 +1,1 @@
+$summon arrow ^ ^ ^ {Tags:["aec","kill_grounded","projectile"],Owner:$(UUID),Motion:$(Motion),PierceLevel:1b,Team:"player",pickup:2b,damage:4.5d,shake:0b}

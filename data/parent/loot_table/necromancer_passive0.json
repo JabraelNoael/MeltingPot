@@ -1,0 +1,106 @@
+{
+  "type": "minecraft:command",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dandelion"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blue_orchid"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:allium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:azure_bluet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:oxeye_daisy"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:poppy"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cornflower"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:lily_of_the_valley"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:torchflower"
+        },
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:dead_bush"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:wither_rose"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:red_tulip"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:orange_tulip"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:pink_tulip"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:white_tulip"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:fern"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:short_grass"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:brown_mushroom"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:red_mushroom"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

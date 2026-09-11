@@ -1,0 +1,3 @@
+scoreboard players operation @s page = @s page.max
+item replace block ~ ~ ~ container.24 with player_head[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Last Page"}',hide_additional_tooltip={},custom_data={menu:1},profile={id:[I;-720120218,160580295,-1700338408,-1472328904],properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTliZjMyOTJlMTI2YTEwNWI1NGViYTcxM2FhMWIxNTJkNTQxYTFkODkzODgyOWM1NjM2NGQxNzhlZDIyYmYifX19"}]}]
+function parent:menu/wsb/reset

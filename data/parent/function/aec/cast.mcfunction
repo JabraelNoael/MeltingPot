@@ -1,0 +1,12 @@
+execute if entity @s[tag=assassin] run function parent:aec/cast/assassin
+execute if entity @s[tag=rifleman] run function parent:aec/cast/rifleman
+execute if entity @s[tag=archer] run function parent:aec/cast/archer
+execute if entity @s[tag=trouvere] run function parent:aec/cast/trouvere
+execute if entity @s[tag=ronin] run function parent:aec/cast/ronin
+execute if entity @s[tag=shaman] run function parent:aec/cast/shaman
+execute if entity @s[tag=knight] run function parent:aec/cast/knight
+execute if entity @s[tag=mage] run function parent:aec/cast/mage
+execute if entity @s[tag=necromancer] run function parent:aec/cast/necromancer
+execute if entity @s[tag=chief] run function parent:aec/cast/chief
+execute if entity @s[tag=rocketeer] run function parent:aec/cast/rocketeer
+execute if entity @s[tag=demolitionist] run function parent:aec/cast/demolitionist

@@ -1,0 +1,2 @@
+playsound minecraft:entity.villager.trade voice @a ~ ~ ~ 0.5 0.77
+tellraw @s [{"text":"\n<"},{"text":"General Bar'lo","color":"yellow"},{"text":"> "},{"text":"How observant of you, but no, the mobs wonder aimlessly till they've locked eyes onto a target... they can't strategize. This valley will minimize any mobs that see us. Even if one does lock eyes it'll head straight for us making it easy to kill before it can alert more mobs, furthermore, the valley keeps loud noises mostly in."}]

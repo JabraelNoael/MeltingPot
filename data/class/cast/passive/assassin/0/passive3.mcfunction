@@ -1,0 +1,1 @@
+damage @s 3.001 minecraft:player_attack by @p[tag=caster]

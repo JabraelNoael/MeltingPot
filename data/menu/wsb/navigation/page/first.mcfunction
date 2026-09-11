@@ -1,0 +1,3 @@
+scoreboard players set @s page 0
+item replace block ~ ~ ~ container.20 with player_head[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"First Page"}',hide_additional_tooltip={},custom_data={menu:1},profile={id:[I;596759859,-1425456307,-1719620177,-566208605],properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQ2OWUwNmU1ZGFkZmQ4NGU1ZjNkMWMyMTA2M2YyNTUzYjJmYTk0NWVlMWQ0ZDcxNTJmZGM1NDI1YmMxMmE5In19fQ=="}]}]
+function parent:menu/wsb/reset

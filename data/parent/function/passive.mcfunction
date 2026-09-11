@@ -1,0 +1,1 @@
+$function parent:cast/passive with storage data:player$(player)

@@ -1,0 +1,157 @@
+#chief
+playsound minecraft:item.goat_horn.sound.5 voice @a ~ ~ ~ 5 1 1
+summon goat ^5 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^5 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^5 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^5 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^5 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^5 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^5 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^5 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^5 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^5 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^5 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^5 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^5 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^5 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^5 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^5 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^5 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^5 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^5 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^5 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+execute at @n[type=goat,tag=new] run spreadplayers ~ ~ 0 3 false @e[type=goat,tag=new]
+tag @e remove new
+summon goat ^8 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^8 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^8 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^8 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^8 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^8 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^8 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^8 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^8 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^8 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^8 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^8 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^8 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^8 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^8 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^8 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^8 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^8 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^8 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^8 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+execute at @n[type=goat,tag=new] run spreadplayers ~ ~ 0 3 false @e[type=goat,tag=new]
+tag @e remove new
+summon goat ^11 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^11 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^11 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^11 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^11 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^11 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^11 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^11 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^11 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^11 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^11 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^11 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^11 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^11 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^11 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^11 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^11 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^11 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^11 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^11 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+execute at @n[type=goat,tag=new] run spreadplayers ~ ~ 0 3 false @e[type=goat,tag=new]
+tag @e remove new
+summon goat ^14 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^14 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^14 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^14 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^14 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^14 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^14 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^14 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^14 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^14 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^14 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^14 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^14 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^14 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^14 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^14 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^14 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^14 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^14 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^14 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+execute at @n[type=goat,tag=new] run spreadplayers ~ ~ 0 3 false @e[type=goat,tag=new]
+tag @e remove new
+summon goat ^17 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^17 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^17 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^17 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^17 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^17 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^17 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^17 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^17 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^17 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^17 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^17 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^17 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^17 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^17 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^17 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^17 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^17 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^17 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^17 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+execute at @n[type=goat,tag=new] run spreadplayers ~ ~ 0 3 false @e[type=goat,tag=new]
+tag @e remove new
+summon goat ^20 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^20 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^20 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^20 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^20 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^20 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^20 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^20 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^20 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^20 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^20 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^20 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^20 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^20 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^20 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^20 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^20 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^20 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^20 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^20 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+execute at @n[type=goat,tag=new] run spreadplayers ~ ~ 0 3 false @e[type=goat,tag=new]
+tag @e remove new
+summon goat ^23 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^23 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^23 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^23 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^23 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^23 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^23 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^23 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^23 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^23 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^23 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^23 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^23 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^23 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^23 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^23 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^23 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^23 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^23 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+summon goat ^23 ^ ^7 {Tags:["new","aec","cast","chief","q0"],NoGravity:1b,Invulnerable:1b,NoAI:1b,IsScreamingGoat:1b,HasLeftHorn:1b,HasRightHorn:1b}
+execute as @e[type=goat,tag=new] run function parent:class/cast/q/chief/0/q2
+scoreboard players add @s q.cd 1
+scoreboard players add @s q.cdd 6

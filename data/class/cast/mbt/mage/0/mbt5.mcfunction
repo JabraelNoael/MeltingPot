@@ -1,0 +1,1 @@
+$summon snowball ^ ^ ^ {Tags:["cast","mbt","mage","0","projectile"],Motion:$(Motion),Owner:$(UUID),Item:{id:"minecraft:blaze_powder",count:1}}

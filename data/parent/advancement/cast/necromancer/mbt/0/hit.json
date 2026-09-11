@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "mbt_necromancer_0_hit": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+          "type": {
+            "direct_entity": {
+              "type": "minecraft:snowball",
+              "nbt": "{Tags:[\"mbt0\",\"necromancer\"]}"
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "parent:cast/mbt/necromancer/0/mbt2-hit"
+  }
+}

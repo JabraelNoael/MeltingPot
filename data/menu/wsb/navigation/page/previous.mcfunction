@@ -1,0 +1,3 @@
+scoreboard players remove @s[scores={page=1..}] page 1
+item replace block ~ ~ ~ container.21 with player_head[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Previous Page"}',hide_additional_tooltip={},custom_data={menu:1},profile={id:[I;-396199022,499861299,-2129878348,2016658513],properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODY1MmUyYjkzNmNhODAyNmJkMjg2NTFkN2M5ZjI4MTlkMmU5MjM2OTc3MzRkMThkZmRiMTM1NTBmOGZkYWQ1ZiJ9fX0="}]}]
+function parent:menu/wsb/reset

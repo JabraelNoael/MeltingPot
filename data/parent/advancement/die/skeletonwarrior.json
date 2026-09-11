@@ -1,0 +1,16 @@
+{
+    "criteria": {
+        "UnlockSkeletonWarrior": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:skeleton",
+                    "nbt": "{Tags:[\"warrior\"]}"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "parent:advancements/kill/skeletonwarrior"
+    }
+}

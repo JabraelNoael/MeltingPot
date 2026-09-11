@@ -1,0 +1,2 @@
+tag @s add effect
+summon armor_stand ^ ^.5 ^1 {Invisible:1b,Small:1b,Invulnerable:1b,NoGravity:1b,CustomNameVisible:1b,Tags:["aec","text"],CustomName:'{"text":"Silenced","color":"light_purple","bold":true,"italic":false}'}

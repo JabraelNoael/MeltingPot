@@ -1,0 +1,5 @@
+execute if score @s category matches 0 unless block ~ ~ ~ white_shulker_box{Items:[{Slot:11b,components:{"minecraft:custom_data":{menu:1}}}]} run function parent:menu/wsb/gui/run/gear
+execute if score @s category matches 0 unless block ~ ~ ~ white_shulker_box{Items:[{Slot:3b,components:{"minecraft:custom_data":{menu:1}}}]} run function parent:menu/wsb/gui/run/settings
+execute if score @s category matches 0 unless block ~ ~ ~ white_shulker_box{Items:[{Slot:13b,components:{"minecraft:custom_data":{menu:1}}}]} run function parent:menu/wsb/gui/run/town
+execute if score @s category matches 0 unless block ~ ~ ~ white_shulker_box{Items:[{Slot:5b,components:{"minecraft:custom_data":{menu:1}}}]} run function parent:menu/wsb/gui/run/info
+execute if score @s category matches 0 unless block ~ ~ ~ white_shulker_box{Items:[{Slot:15b,components:{"minecraft:custom_data":{menu:1}}}]} run function parent:menu/wsb/gui/run/player

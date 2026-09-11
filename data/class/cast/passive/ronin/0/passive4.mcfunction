@@ -1,0 +1,1 @@
+particle cloud ~ ~0.3 ~ 0 0 0 0.3 1 force @s

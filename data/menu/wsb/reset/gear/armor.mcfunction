@@ -1,0 +1,4 @@
+item replace block ~ ~ ~ container.10 with leather_helmet[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Helmet"}',hide_additional_tooltip={},custom_data={menu:1}]
+item replace block ~ ~ ~ container.12 with leather_chestplate[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Chestplates"}',hide_additional_tooltip={},custom_data={menu:1}]
+item replace block ~ ~ ~ container.14 with leather_leggings[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Leggings"}',hide_additional_tooltip={},custom_data={menu:1}]
+item replace block ~ ~ ~ container.16 with leather_boots[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Boots"}',hide_additional_tooltip={},custom_data={menu:1}]

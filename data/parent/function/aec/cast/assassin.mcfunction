@@ -1,0 +1,1 @@
+execute if entity @s[tag=mbt0] at @s run function parent:cast/mbt/assassin/0/mbt3

@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "mbt": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:iron_ingot",
+          "predicates": {
+            "minecraft:custom_data": "{weapon:1b}"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "parent:cast/mbt"
+  }
+}

@@ -1,0 +1,3 @@
+item replace block ~ ~ ~ container.3 with goat_horn[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Game Settings"}',hide_additional_tooltip={},custom_data={menu:1}] 1
+item replace block ~ ~ ~ container.13 with skull_banner_pattern[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Reset all Settings"}',hide_additional_tooltip={},custom_data={menu:1}] 1
+item replace block ~ ~ ~ container.5 with nautilus_shell[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Display Settings"}',hide_additional_tooltip={},custom_data={menu:1}] 1

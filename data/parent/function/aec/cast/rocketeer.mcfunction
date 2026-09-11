@@ -1,0 +1,1 @@
+execute if entity @s[tag=mbt0] at @s run function parent:cast/mbt/rocketeer/0/mbt2-tick

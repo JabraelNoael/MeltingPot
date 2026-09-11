@@ -1,0 +1,1 @@
+attribute @s minecraft:attack_speed modifier add anti-auto -9999 add_multiplied_total

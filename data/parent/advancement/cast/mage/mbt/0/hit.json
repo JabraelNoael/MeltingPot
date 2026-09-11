@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "mbt_mage_0_hit": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+          "type": {
+            "direct_entity": {
+              "type": "minecraft:snowball",
+              "nbt": "{Tags:[\"cast\",\"mbt\",\"mage\",\"0\",\"projectile\"]}"
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "parent:cast/mbt/mage/0/mbt6"
+  }
+}

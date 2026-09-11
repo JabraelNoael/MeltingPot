@@ -1,0 +1,2 @@
+#demolitionist
+$summon snowball ^ ^ ^ {Tags:["mbt0","demolitionist"],Motion:$(Motion),Owner:$(UUID),Item:{id:"minecraft:tnt",count:1},Passengers:[{id:"minecraft:marker",Tags:["aec","cast","mbt0","demolitionist"]}]}

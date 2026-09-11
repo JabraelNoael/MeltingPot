@@ -1,0 +1,9 @@
+item replace block ~ ~ ~ container.9 with stone_sword[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Weapons"}',hide_additional_tooltip={},custom_data={menu:1}] 1
+item replace block ~ ~ ~ container.1 with chainmail_chestplate[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Armor"}',hide_additional_tooltip={},custom_data={menu:1}] 1
+item replace block ~ ~ ~ container.11 with blaze_powder[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Abilities"}',hide_additional_tooltip={},custom_data={menu:1}] 1
+item replace block ~ ~ ~ container.3 with chain[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Accessories"}',hide_additional_tooltip={},custom_data={menu:1}] 1
+item replace block ~ ~ ~ container.13 with cobweb[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Utility"}',hide_additional_tooltip={},custom_data={menu:1}] 1
+item replace block ~ ~ ~ container.5 with experience_bottle[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Runes"}',hide_additional_tooltip={},custom_data={menu:1}] 1
+item replace block ~ ~ ~ container.15 with sweet_berries[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Food"}',hide_additional_tooltip={},custom_data={menu:1}] 1
+item replace block ~ ~ ~ container.7 with pufferfish[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Pets"}',hide_additional_tooltip={},custom_data={menu:1}] 1
+item replace block ~ ~ ~ container.17 with crossbow[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Deployables"}',hide_additional_tooltip={},custom_data={menu:1}] 1

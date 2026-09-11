@@ -1,0 +1,3 @@
+scoreboard players add @s category 1
+item replace block ~ ~ ~ container.25 with player_head[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Next Category"}',hide_additional_tooltip={},custom_data={menu:1},profile={id:[I;-314193404,-1018607276,-1725173352,840488033],properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWM5ZWM3MWMxMDY4ZWM2ZTAzZDJjOTI4N2Y5ZGE5MTkzNjM5ZjNhNjM1ZTJmYmQ1ZDg3YzJmYWJlNjQ5OSJ9fX0="}]}] 1
+function parent:menu/wsb/reset

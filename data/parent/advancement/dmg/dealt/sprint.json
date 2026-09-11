@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+          "source_entity": {
+            "flags": {
+              "is_sprinting": true
+            }
+          }
+        },
+        "entity": [
+          {
+            "condition": "minecraft:inverted",
+            "term": {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type": "#parent:raycast"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "parent:advancements/dmg/dealt/sprint"
+  }
+}

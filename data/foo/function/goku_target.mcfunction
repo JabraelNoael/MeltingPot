@@ -1,0 +1,1 @@
+$particle vibration{arrival_in_ticks:6000,destination:{type:"block", pos:[$(x),$(y),$(z)]}} ~ ~3 ~ 0 0 0 0 1 force

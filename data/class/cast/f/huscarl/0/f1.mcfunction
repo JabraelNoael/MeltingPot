@@ -1,0 +1,76 @@
+execute anchored feet positioned ^ ^ ^-0.25 run summon text_display ~ ~-0.3 ~ {Tags:["ride"]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+summon slime ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,attributes:[{id:"minecraft:generic.scale",base:1.4}]}
+
+execute as @e[type=slime] run ride @s mount @n[tag=ride]
+
+#tag @s add selector
+#summon area_effect_cloud ^ ^ ^1 {Tags:["new","aec","huscarlShield"],Duration:100}
+#execute as @e[tag=new] run function parent:class/cast/f/huscarl/f2
+#tag @s remove selector

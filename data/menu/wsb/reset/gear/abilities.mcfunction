@@ -1,0 +1,4 @@
+item replace block ~ ~ ~ container.10 with compass[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Passives"}',hide_additional_tooltip={},custom_data={menu:1}]
+item replace block ~ ~ ~ container.12 with glow_ink_sac[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Secondaries"}',hide_additional_tooltip={},custom_data={menu:1}]
+item replace block ~ ~ ~ container.14 with feather[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Utilities"}',hide_additional_tooltip={},custom_data={menu:1}]
+item replace block ~ ~ ~ container.16 with fermented_spider_eye[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Ultimates"}',hide_additional_tooltip={},custom_data={menu:1}]

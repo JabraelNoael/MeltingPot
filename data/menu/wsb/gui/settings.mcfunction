@@ -1,0 +1,3 @@
+execute if score @s category = $settings category unless block ~ ~ ~ white_shulker_box{Items:[{Slot:3b,components:{"minecraft:custom_data":{menu:1}}}]} run function parent:menu/wsb/gui/run/settings/game
+execute if score @s category = $settings category unless block ~ ~ ~ white_shulker_box{Items:[{Slot:13b,components:{"minecraft:custom_data":{menu:1}}}]} run function parent:menu/wsb/gui/run/settings/reset
+execute if score @s category = $settings category unless block ~ ~ ~ white_shulker_box{Items:[{Slot:5b,components:{"minecraft:custom_data":{menu:1}}}]} run function parent:menu/wsb/gui/run/settings/display

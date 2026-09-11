@@ -1,0 +1,2 @@
+playsound minecraft:entity.villager.trade voice @a ~ ~ ~ 0.5 0.77
+tellraw @s [{"text":"\n<"},{"text":"General Bar'lo","color":"yellow"},{"text":"> "},{"text":"We've got guards that remain posted within these walls but we've been talking about sending groups outside of them to reclaim territory from the mobs. You interested?"}]

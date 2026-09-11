@@ -1,0 +1,1 @@
+spreadplayers 120 8 2 10 false @e[tag=enemy]

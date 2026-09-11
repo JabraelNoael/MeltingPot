@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_scores",
+  "entity": "this",
+  "scores": {
+    "passive.cd": 0,
+    "passive.cdd": 0,
+    "mbt.cd": 0,
+    "mbt.cdd": 0,
+    "f.cd": 0,
+    "f.cdd": 0,
+    "q.cd": 0,
+    "q.cdd": 0
+  }
+}

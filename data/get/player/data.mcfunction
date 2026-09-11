@@ -1,0 +1,1 @@
+$$(fn) with storage data:player$(player)

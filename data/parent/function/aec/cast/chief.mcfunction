@@ -1,0 +1,1 @@
+execute as @s[tag=q0] at @s run function parent:cast/q/chief/0/q3-tick

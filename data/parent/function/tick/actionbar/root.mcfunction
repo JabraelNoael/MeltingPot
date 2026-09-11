@@ -1,0 +1,1 @@
+$function parent:tick/actionbar/display with storage data:player$(player) actionbar

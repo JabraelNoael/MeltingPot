@@ -1,0 +1,3 @@
+scoreboard players remove @s[scores={category=1..}] category 1
+item replace block ~ ~ ~ container.19 with player_head[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Previous Category"}',hide_additional_tooltip={},custom_data={menu:1},profile={id:[I;-899587925,1027230930,-1529633446,1325542789],properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODE2ZWEzNGE2YTZlYzVjMDUxZTY5MzJmMWM0NzFiNzAxMmIyOThkMzhkMTc5ZjFiNDg3YzQxM2Y1MTk1OWNkNCJ9fX0="}]}]
+function parent:menu/wsb/reset

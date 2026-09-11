@@ -1,0 +1,1 @@
+$title @s actionbar ["","$(secondary)",": ",{"score":{"name":"@s","objective":"mbt.cd"}},".",{"score":{"name":"@s","objective":"mbt.cdd"}}," | ","$(utility)",": ",{"score":{"name":"@s","objective":"f.cd"}},".",{"score":{"name":"@s","objective":"f.cdd"}}," | ","$(ultimate)",": ",{"score":{"name":"@s","objective":"q.cd"}},".",{"score":{"name":"@s","objective":"q.cdd"}}]

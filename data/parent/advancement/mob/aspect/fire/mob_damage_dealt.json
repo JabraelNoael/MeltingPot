@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "fire_aspect_hurt_player": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "source_entity": {
+            "nbt": "{Tags:[\"fire_aspect\"]}"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "parent:mob/aspect/fire/damage_dealt"
+  }
+}

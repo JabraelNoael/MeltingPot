@@ -1,0 +1,1 @@
+$damage @s 4.001 minecraft:player_attack by $(UUID_string)

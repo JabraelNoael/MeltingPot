@@ -1,0 +1,9 @@
+#will I need a stacking_effect tag?
+scoreboard players remove @s frost_stack 1
+scoreboard players set @s[scores={frost_stack=..-1}] frost_stack 0
+attribute @s[scores={frost_stack=0}] minecraft:movement_speed modifier remove frost1
+attribute @s[scores={frost_stack=0..1}] minecraft:movement_speed modifier remove frost2
+attribute @s[scores={frost_stack=0..2}] minecraft:movement_speed modifier remove frost3
+attribute @s[scores={frost_stack=0..3}] minecraft:movement_speed modifier remove frost4
+attribute @s[scores={frost_stack=0..4}] minecraft:movement_speed modifier remove frost5
+attribute @s[scores={frost_stack=0..5}] minecraft:movement_speed modifier remove frost6

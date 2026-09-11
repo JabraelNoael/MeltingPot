@@ -1,0 +1,1 @@
+$playsound minecraft:item.goat_horn.sound.$(goat_horn) voice @a ~ ~ ~ 1 1.3

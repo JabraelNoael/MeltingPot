@@ -1,0 +1,1 @@
+execute if entity @s[tag=mbt0] run function parent:aec/projectile/assassin/mbt0

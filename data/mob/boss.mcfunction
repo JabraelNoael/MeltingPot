@@ -1,0 +1,1 @@
+execute if entity @s[type=#minecraft:skeletons] run function parent:mob/boss/skeletons

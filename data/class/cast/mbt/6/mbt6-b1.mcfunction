@@ -1,0 +1,2 @@
+execute if entity @s[scores={mbt.stack=1..}] run function parent:class/cast/mbt/5/mbt5-b2
+execute unless entity @s[scores={mbt.stack=1..}] run playsound minecraft:entity.ghast.scream voice @s ~ ~ ~ .25 1.25

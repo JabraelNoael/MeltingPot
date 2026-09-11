@@ -1,0 +1,2 @@
+execute unless entity @s[scores={q.cd=0,q.cdd=0}] run playsound minecraft:entity.ghast.scream voice @s ~ ~ ~ .25 1.25
+execute if entity @s[scores={q.cd=0,q.cdd=0}] run function parent:class/cast/q/1/q1-1

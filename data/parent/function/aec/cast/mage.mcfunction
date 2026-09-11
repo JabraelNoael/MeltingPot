@@ -1,0 +1,1 @@
+execute if entity @s[tag=q0] at @s run function parent:cast/q/mage/0/q3

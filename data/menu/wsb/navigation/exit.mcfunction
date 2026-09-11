@@ -1,0 +1,2 @@
+clone ~ ~ ~ ~ ~ ~ ~ ~ ~ replace force
+item replace block ~ ~ ~ container.26 with barrier[max_stack_size=1,custom_name='{"color":"yellow","italic":false,"text":"Exit"}',hide_additional_tooltip={},custom_data={menu:1}] 1

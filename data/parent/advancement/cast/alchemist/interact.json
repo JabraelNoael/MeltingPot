@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "player": {
+          "slots": {
+            "weapon.mainhand": {
+              "items": "#parent:alchemist_passive0"
+            }
+          }
+        },
+        "entity": {
+          "type": "minecraft:interaction",
+          "nbt": "{Tags:[\"cauldron\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "parent:cast/passive/alchemist/0/passive1-interact"
+  }
+}

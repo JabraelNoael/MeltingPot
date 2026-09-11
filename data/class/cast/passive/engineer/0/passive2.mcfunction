@@ -1,0 +1,1 @@
+execute at @n[type=item,nbt={OnGround:1b,Item:{components:{"minecraft:custom_data":{engineer_contraption:1}}}}] run function parent:class/cast/passive/engineer/0/passive3

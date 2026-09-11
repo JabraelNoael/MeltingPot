@@ -1,0 +1,2 @@
+data modify storage get:player fn set value "execute as @e[type=!#parent:raycast,type=!player,distance=..1.5] run function parent:class/cast/mbt/ronin/0/mbt4-target"
+function parent:get/player with storage get:player
