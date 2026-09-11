@@ -1,0 +1,1 @@
+execute as @e[type=!#parent:raycast,type=!player,distance=..20] run damage @s 0.001 wither by @s

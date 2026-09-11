@@ -1,0 +1,1 @@
+execute as @s[tag=f0] at @s run function parent:cast/f/knight/0/f3

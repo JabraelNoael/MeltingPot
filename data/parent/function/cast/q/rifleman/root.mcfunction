@@ -1,0 +1,1 @@
+execute if entity @s[scores={mbt.s=0}] run function parent:cast/mbt/rifleman/0/tick

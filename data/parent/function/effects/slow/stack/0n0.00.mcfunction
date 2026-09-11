@@ -1,0 +1,9 @@
+execute if score @s slow_0n0.00 matches 1..9 run attribute @s minecraft:generic.movement_speed modifier add slow10 -0.1 add_multiplied_base
+execute if score @s slow_0n0.00 matches 2..9 run attribute @s minecraft:generic.movement_speed modifier add slow20 -0.1 add_multiplied_base
+execute if score @s slow_0n0.00 matches 3..9 run attribute @s minecraft:generic.movement_speed modifier add slow30 -0.1 add_multiplied_base
+execute if score @s slow_0n0.00 matches 4..9 run attribute @s minecraft:generic.movement_speed modifier add slow40 -0.1 add_multiplied_base
+execute if score @s slow_0n0.00 matches 5..9 run attribute @s minecraft:generic.movement_speed modifier add slow50 -0.1 add_multiplied_base
+execute if score @s slow_0n0.00 matches 6..9 run attribute @s minecraft:generic.movement_speed modifier add slow60 -0.1 add_multiplied_base
+execute if score @s slow_0n0.00 matches 7..9 run attribute @s minecraft:generic.movement_speed modifier add slow70 -0.1 add_multiplied_base
+execute if score @s slow_0n0.00 matches 8..9 run attribute @s minecraft:generic.movement_speed modifier add slow80 -0.1 add_multiplied_base
+execute if score @s slow_0n0.00 matches 9..9 run attribute @s minecraft:generic.movement_speed modifier add slow90 -0.1 add_multiplied_base

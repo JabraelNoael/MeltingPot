@@ -1,0 +1,1 @@
+scoreboard players set @s mbt.q 0

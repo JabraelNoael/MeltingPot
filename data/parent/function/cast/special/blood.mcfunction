@@ -1,0 +1,1 @@
+particle block{block_state:"minecraft:redstone_block"} ~ ~ ~ .1 .1 .1 .2 6 normal @a[scores={blood=1..}]

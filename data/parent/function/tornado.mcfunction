@@ -1,0 +1,11 @@
+execute at @e[tag=tornado] run particle sweep_attack ~ ~ ~ .3 .5 .3 0 5
+execute at @e[tag=tornado] run particle sweep_attack ~ ~2 ~ .8 .5 .8 0 20
+execute at @e[tag=tornado] run particle sweep_attack ~ ~4 ~ 1.3 .5 1.3 0 30
+execute at @e[tag=tornado] run particle sweep_attack ~ ~6 ~ 1.8 .5 1.8 0 40
+execute at @e[tag=tornado] run particle sweep_attack ~ ~8 ~ 2.2 .5 2.2 0 50
+execute at @e[tag=tornado] run particle sweep_attack ~ ~10 ~ 2.4 .5 2.4 0 60
+execute at @e[tag=tornado] run particle sweep_attack ~ ~12 ~ 2.6 .5 2.6 0 70
+execute at @e[tag=tornado] run particle sweep_attack ~ ~14 ~ 2.8 .5 2.8 0 80
+execute at @e[tag=tornado] run particle sweep_attack ~ ~16 ~ 3 .5 3 0 90
+execute at @e[tag=tornado] run particle sweep_attack ~ ~18 ~ 3.2 .5 3.2 0 100
+execute at @e[tag=tornado] run particle sweep_attack ~ ~20 ~ 3.4 .5 3.4 0 110

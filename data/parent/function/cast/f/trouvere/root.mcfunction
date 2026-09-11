@@ -1,0 +1,1 @@
+execute if entity @s[scores={f.s=0}] run function parent:cast/f/trouvere/0/tick

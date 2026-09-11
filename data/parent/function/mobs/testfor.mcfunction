@@ -1,0 +1,1 @@
+execute if entity @e[tag=greater] run function parent:mobs/type/greater

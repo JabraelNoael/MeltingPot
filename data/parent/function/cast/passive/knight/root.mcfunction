@@ -1,0 +1,1 @@
+execute if entity @s[scores={passive.s=0}] run function parent:cast/passive/knight/0/tick

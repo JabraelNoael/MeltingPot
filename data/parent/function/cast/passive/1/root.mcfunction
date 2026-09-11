@@ -1,0 +1,1 @@
+tp @e[type=slime,tag=gepo] ~ ~-666 ~

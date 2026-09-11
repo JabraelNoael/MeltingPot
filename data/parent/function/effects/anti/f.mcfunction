@@ -1,0 +1,1 @@
+execute if entity @s[nbt={Inventory:[{Slot:-106b,tag:{weapon:1b}}]}] at @s run playsound minecraft:entity.player.attack.nodamage voice @s ~ ~1 ~ 1 .5

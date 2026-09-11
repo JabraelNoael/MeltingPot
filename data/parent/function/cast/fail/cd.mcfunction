@@ -1,0 +1,1 @@
+playsound minecraft:entity.ghast.scream voice @s ~ ~ ~ .025 1.25

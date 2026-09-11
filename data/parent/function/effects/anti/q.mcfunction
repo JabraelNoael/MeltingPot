@@ -1,0 +1,1 @@
+execute if entity @s[scores={q=1..}] run playsound minecraft:entity.player.attack.nodamage voice @s ~ ~1 ~ 1 .5

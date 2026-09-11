@@ -1,0 +1,3 @@
+tp @s ~ ~-257 ~
+summon creeper ~ ~ ~ {Team:"noCollison",Health:40f,ExplosionRadius:1b,Fuse:60,Tags:["custommob","greater","mob.greatercreeper","rolled"],Passengers:[{id:"minecraft:armor_stand",Invulnerable:1b,Small:1b,Invisible:1b,Tags:["custommob","greater","mob.greatercreeper","rolled"],DisabledSlots:4144959,ArmorItems:[{},{},{},{id:"minecraft:tnt",Count:1b}]}],Attributes:[{Name:generic.maxHealth,Base:40},{Name:generic.knockbackResistance,Base:.25}]}
+kill @e[tag=rollchance]

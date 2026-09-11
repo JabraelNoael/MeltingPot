@@ -1,0 +1,66 @@
+Tags
+	aec Active Entity Component (Originally Area Effect Cloud)
+		Entities with the tag 'aec' need a tick function to operate
+	temp
+		Temporary tag that lasts the duration of the function for the sake of nbt selectors
+	projectile
+		Given to artifical projectiles so that projectile related functions can behave accordingly
+	mbt.2-1
+		<activation>.<selector>-<file>
+		
+Stats
+	Health
+		hp = hitpoints (score)
+			The max amount of hits the player can take
+		hp.max (score)
+			The max amount 'hp' can be set to
+		hp.regen
+			Amount of 'hp' to gain per healing cycle
+		hp.tick (dummy score)
+			Timer for healing the player periodically
+		hp.tick.max (score)
+			Heals player for 'hp.regen' everytime 'hp.tick' >= 'hp,tick.max'
+	Ability
+		Damage
+			ad
+				The sum of physical attack stats from your gear
+				Can modify physical attack damage E.X. with a 4 damage attack floor(4+'ad')
+			md
+				The sum of magic damage stats from your gear
+				Can modify magic attack damage E.X. with a 4 damage attack floor(4+'md')
+			power
+				The sum of power stats from your gear
+				Always will modify damage but to a lesser degree E.X. with floor(4+floor('power'/2))
+		Misc
+			range
+				Works as a variable to change projectile range, cast range, cast radiuses, and etc		
+
+Buffs
+	Tags
+		cd (tag)
+			Abilities can be casteed regardless of cooldown status
+		mana (tag)
+			Abilities will be casted regardless of mana status
+
+Debuffs
+	Tags
+		anti-all (tag)
+			Abilities and Passives cannot be casted or used
+		anti-ability (tag)
+			Abilities cannot be casted
+		anti-dash (tag)
+			Movement related abilities cannot be casted
+		anti-passive (tag)
+			Passive cannot be used
+		anti-mbt (tag)
+			Secondary cannot be casted
+		anti-f (tag)
+			Utility/Tertiary cannot be casted
+		anti-q (tag)
+			Ultimate cannot be casted
+	Status Effects
+		silence (score)
+			Players have anti-ability for 'silence' ticks
+		cleave (score) & cleave.amp (score)
+			Players lose 'cleave.amp' of armor for 'cleave' ticks
+	

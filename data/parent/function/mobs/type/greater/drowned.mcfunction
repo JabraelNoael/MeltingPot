@@ -1,0 +1,1 @@
+execute as @e[type=guardian,tag=mob.greaterdrowned] at @s positioned ~ ~-1 ~ unless entity @e[type=drowned,tag=mob.greaterdrowned,distance=..1.5] run data merge entity @s {Invulnerable:0b}

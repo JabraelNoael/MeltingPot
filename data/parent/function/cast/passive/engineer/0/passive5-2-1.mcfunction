@@ -1,0 +1,2 @@
+say "boom"
+kill @s

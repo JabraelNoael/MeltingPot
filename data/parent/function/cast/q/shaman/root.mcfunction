@@ -1,0 +1,1 @@
+execute if entity @s[scores={q.s=0}] run function parent:cast/q/shaman/0/tick

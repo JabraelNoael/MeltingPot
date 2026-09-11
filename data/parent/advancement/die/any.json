@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "Kill": {
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "rewards": {
+    "function": "parent:advancements/kill/any"
+  }
+}

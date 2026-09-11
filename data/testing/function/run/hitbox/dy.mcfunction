@@ -1,0 +1,12 @@
+particle wax_off ~.5 ~.5 ~.5 0 .2 0 0 1
+particle wax_off ~-.5 ~.5 ~.5 0 .2 0 0 1
+particle wax_off ~.5 ~.5 ~-.5 0 .2 0 0 1
+particle wax_off ~-.5 ~.5 ~-.5 0 .2 0 0 1
+particle wax_off ~ ~ ~.5 .2 0 0 0 1
+particle wax_off ~ ~1 ~.5 .2 0 0 0 1
+particle wax_off ~ ~ ~-.5 .2 0 0 0 1
+particle wax_off ~ ~1 ~-.5 .2 0 0 0 1
+particle wax_off ~.5 ~ ~ 0 0 .2 0 1
+particle wax_off ~.5 ~1 ~ 0 0 .2 0 1
+particle wax_off ~-.5 ~ ~ 0 0 .2 0 1
+particle wax_off ~-.5 ~1 ~ 0 0 .2 0 1

@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "First Time Joining": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "function": "parent:advancements/freshmeat"
+  }
+}

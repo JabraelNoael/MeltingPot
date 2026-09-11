@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "block_shield": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:shield"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "parent:advancements/dmg/taken/shield_block"
+  }
+}

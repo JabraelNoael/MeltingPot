@@ -1,0 +1,3 @@
+item replace block ~ ~ ~ container.3 with goat_horn{HideFlags:127,display:{Name:'{"text":"Game Settings","color":"yellow","italic":false}'},menu:1}
+item replace block ~ ~ ~ container.13 with skull_banner_pattern{HideFlags:127,display:{Name:'{"text":"Reset all Settings","color":"yellow","italic":false}'},menu:1}
+item replace block ~ ~ ~ container.5 with nautilus_shell{HideFlags:127,display:{Name:'{"text":"Display Settings","color":"yellow","italic":false}'},menu:1}

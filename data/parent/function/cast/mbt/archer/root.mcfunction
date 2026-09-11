@@ -1,0 +1,1 @@
+execute if score @s mbt.s matches 0 run function parent:cast/mbt/archer/0/tick

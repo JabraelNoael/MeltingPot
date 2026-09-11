@@ -1,0 +1,3 @@
+tp @s ~ ~-257 ~
+summon witch ~ ~ ~ {Health:80f,Tags:["custommob","greater","mob.greaterwitch","rolled"],HandItems:[{id:"minecraft:golden_sword",Count:1b,tag:{display:{Name:'{"text":"Spellblade"}'},Unbreakable:1b,Enchantments:[{id:"minecraft:smite",lvl:1s},{id:"minecraft:bane_of_arthropods",lvl:1s},{id:"minecraft:looting",lvl:1s}]}},{}],HandDropChances:[0.150F,0.085F],Attributes:[{Name:generic.maxHealth,Base:80}]}
+kill @e[tag=rollchance]
