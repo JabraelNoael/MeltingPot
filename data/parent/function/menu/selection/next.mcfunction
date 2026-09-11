@@ -1,0 +1,2 @@
+scoreboard players add @s[scores={page=1..}] page 1
+item replace block ~ ~ ~ container.17 with player_head{display:{Name:'{"text":"Next Page","italic":false}'},menu:1b,SkullOwner:{Id:[I;1959858839,265899331,-1848013230,379993850],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmEzYjhmNjgxZGFhZDhiZjQzNmNhZThkYTNmZTgxMzFmNjJhMTYyYWI4MWFmNjM5YzNlMDY0NGFhNmFiYWMyZiJ9fX0="}]}}}

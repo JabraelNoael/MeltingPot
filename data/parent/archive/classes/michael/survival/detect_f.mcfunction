@@ -1,0 +1,4 @@
+execute as @s[tag=michael.ultimate,tag=!anti-ability,scores={f.cd=0},nbt={Inventory:[{Slot:-106b,tag:{michael:1b}}]}] at @s run function parent:classes/michael/survival/f-2
+execute as @s[tag=!michael.ultimate,tag=!anti-ability,scores={f.cd=0},nbt={Inventory:[{Slot:-106b,tag:{michael:1b}}]}] at @s run function parent:classes/michael/survival/f-1
+execute as @s run replaceitem entity @s weapon.mainhand carrot_on_a_stick{display:{Name:'{"text":"Abyssal Seal","color":"aqua","italic":false}'},HideFlags:63,RepairCost:9999999,Unbreakable:1b,CustomModelData:1,weapon:1b,michael:1b,AttributeModifiers:[{AttributeName:"generic.attackDamage",Name:"generic.attackDamage",Amount:6.5,Operation:0,UUIDLeast:228875,UUIDMost:727615,Slot:"mainhand"},{AttributeName:"generic.attackSpeed",Name:"generic.attackSpeed",Amount:-.5,Operation:0,UUIDLeast:648258,UUIDMost:655636,Slot:"mainhand"}]}
+execute as @s run replaceitem entity @s weapon.offhand air

@@ -1,0 +1,2 @@
+scoreboard players set @s[scores={page=1..}] page 1
+item replace block ~ ~ ~ container.18 with player_head{display:{Name:'{"text":"First Page / Previous Category","italic":false}'},menu:1b,SkullOwner:{Id:[I;-899587925,1027230930,-1529633446,1325542789],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODE2ZWEzNGE2YTZlYzVjMDUxZTY5MzJmMWM0NzFiNzAxMmIyOThkMzhkMTc5ZjFiNDg3YzQxM2Y1MTk1OWNkNCJ9fX0="}]}}}

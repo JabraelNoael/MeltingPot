@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "Freshmeat": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "rewards": {
+        "function": "parent:advancements/freshmeat"
+    }
+}

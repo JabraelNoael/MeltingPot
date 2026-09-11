@@ -1,0 +1,4 @@
+particle flame ~ ~ ~ .05 .05 .05 0 1 force
+execute as @e[team=!Friendly,nbt=!{Invulnerable:1b},type=!area_effect_cloud,type=!item,type=!armor_stand,type=!painting,type=!item_frame,type=!experience_orb,dy=0,limit=1,sort=nearest] run function parent:classes/ashton/survival/mb2-1-2
+scoreboard players add @a[tag=ashton] raycast 1
+execute as @a[tag=ashton,scores={raycast=..62}] if block ~ ~ ~ #parent:raycast unless entity @e[team=!Friendly,nbt=!{Invulnerable:1b},type=!area_effect_cloud,type=!item,type=!armor_stand,type=!painting,type=!item_frame,type=!experience_orb,dy=0,limit=1,sort=nearest] positioned ^ ^ ^.5 run function parent:classes/ashton/survival/mb2-1-1

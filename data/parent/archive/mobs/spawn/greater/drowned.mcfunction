@@ -1,0 +1,3 @@
+tp @s ~ ~-257 ~
+summon drowned ~ ~ ~ {CanPickUpLoot:1b,Health:45f,CanBreakDoors:1b,Tags:["custommob","greater","mob.greaterdrowned","rolled"],Passengers:[{id:"minecraft:guardian",Invulnerable:1b,Tags:["custommob","greater","mob.greaterdrowned","rolled"]}],Attributes:[{Name:generic.maxHealth,Base:45},{Name:generic.knockbackResistance,Base:.3},{Name:generic.attackDamage,Base:5}]}
+kill @e[tag=rollchance]

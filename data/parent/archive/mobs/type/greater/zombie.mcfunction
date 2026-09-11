@@ -1,0 +1,1 @@
+execute as @e[type=silverfish,tag=mob.greaterzombie] at @s positioned ~ ~-1 ~ unless entity @e[type=zombie,tag=mob.greaterzombie,distance=..2] run function parent:mobs/type/greater/zombie1
