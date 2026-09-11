@@ -1,0 +1,3 @@
+execute if entity @a[distance=6..] run data merge entity @s[nbt=!{HandItems:[{id:"minecraft:bow"}]}] {HandItems:[{id:"minecraft:bow",Count:1b,range:1b,tag:{Enchantments:[{id:"minecraft:power",lvl:1s},{id:"minecraft:punch",lvl:1s}]}},{}],HandDropChances:[0.0F,0.0F]}
+execute if entity @a[distance=..6] run data merge entity @s[nbt=!{HandItems:[{id:"minecraft:iron_axe"}]}] {HandItems:[{id:"minecraft:iron_axe",Count:1b,melee:1b,tag:{Enchantments:[{id:"minecraft:knockback",lvl:5s}]}},{}],HandDropChances:[0.0F,0.0F]}
+effect give @s weakness 1 0 true

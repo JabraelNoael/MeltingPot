@@ -1,0 +1,1 @@
+execute as @e[tag=menu] at @s if entity @a[distance=..6.5] run function parent:menu

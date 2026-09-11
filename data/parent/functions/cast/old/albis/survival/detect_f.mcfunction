@@ -1,0 +1,4 @@
+execute as @s[tag=!empowered,tag=!anti-ability,scores={tertiary=1..,f.cd=0},nbt={Inventory:[{Slot:-106b,tag:{albis:1b}}]}] at @s run function parent:classes/albis/survival/f-1
+execute as @s[tag=empowered,tag=!anti-ability,scores={tertiary=1..},nbt={Inventory:[{Slot:-106b,tag:{albis:1b}}]}] at @s run function parent:classes/albis/survival/f-2
+#execute as @s run replaceitem entity @s weapon.mainhand carrot_on_a_stick{display:{Name:'{"text":"Stalker\'s Blade","color":"aqua","bold":true,"italic":false}'},HideFlags:63,RepairCost:9999999,Unbreakable:1b,CustomModelData:2,weapon:1b,albis:1b,AttributeModifiers:[{AttributeName:"generic.attackDamage",Name:"generic.attackDamage",Amount:6.5,Operation:0,UUIDLeast:228875,UUIDMost:727615,Slot:"mainhand"},{AttributeName:"generic.attackSpeed",Name:"generic.attackSpeed",Amount:-.5,Operation:0,UUIDLeast:648258,UUIDMost:655636,Slot:"mainhand"}]}
+#execute as @s run replaceitem entity @s weapon.offhand air

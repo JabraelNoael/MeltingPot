@@ -1,0 +1,4 @@
+execute if score @s category = $armor category unless block ~ ~ ~ white_shulker_box{Items:[{Slot:10b,tag:{menu:1}}]} run function parent:menu/wsb/gui/run/gear/armor/helmets
+execute if score @s category = $armor category unless block ~ ~ ~ white_shulker_box{Items:[{Slot:12b,tag:{menu:1}}]} run function parent:menu/wsb/gui/run/gear/armor/chestplates
+execute if score @s category = $armor category unless block ~ ~ ~ white_shulker_box{Items:[{Slot:14b,tag:{menu:1}}]} run function parent:menu/wsb/gui/run/gear/armor/leggings
+execute if score @s category = $armor category unless block ~ ~ ~ white_shulker_box{Items:[{Slot:16b,tag:{menu:1}}]} run function parent:menu/wsb/gui/run/gear/armor/boots

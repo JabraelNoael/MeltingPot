@@ -1,0 +1,3 @@
+execute as @s[tag=!stun,tag=!ground,scores={f.cd=0},nbt={Inventory:[{Slot:-106b,tag:{weapon:1b}}]}] at @s run function parent:classes/monk/tick/f-1
+execute as @s run item replace entity @s weapon.mainhand with carrot_on_a_stick{display:{Name:'{"text":"Monk : Wraps","color":"aqua","italic":false}'},HideFlags:63,RepairCost:9999999,Unbreakable:1b,CustomModelData:3,weapon:1b,monk:1b,AttributeModifiers:[{AttributeName:"generic.attackDamage",Name:"generic.attackDamage",Amount:4,Operation:0,UUIDLeast:228875,UUIDMost:727615,Slot:"mainhand"},{AttributeName:"generic.attackSpeed",Name:"generic.attackSpeed",Amount:-.5,Operation:0,UUIDLeast:648258,UUIDMost:655636,Slot:"mainhand"}]}
+execute as @s run item replace entity @s weapon.offhand with air

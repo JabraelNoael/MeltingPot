@@ -1,0 +1,5 @@
+execute if entity @e[type=item,nbt={Item:{tag:{noael:1b}}}] as @s[tag=!anti-ability,scores={q_crouch=0,ultimate=1..q.cd=0,q=1..}] at @s run function parent:classes/noael/survival/q-1
+execute if entity @e[type=item,nbt={Item:{tag:{noael:1b}}}] as @s[tag=!anti-ability,scores={q_crouch=1,q=1..}] at @s run function parent:classes/noael/survival/q-2
+#execute if entity @e[type=item,nbt={Item:{tag:{noael:1b}}}] run replaceitem entity @s weapon.mainhand carrot_on_a_stick{display:{Name:'{"text":"Voodoo Pin","color":"aqua","italic":false}'},HideFlags:63,RepairCost:9999999,Unbreakable:1b,CustomModelData:4,weapon:1b,noael:1b,AttributeModifiers:[{AttributeName:"generic.attackDamage",Name:"generic.attackDamage",Amount:6.5,Operation:0,UUIDLeast:228875,UUIDMost:727615,Slot:"mainhand"},{AttributeName:"generic.attackSpeed",Name:"generic.attackSpeed",Amount:-.5,Operation:0,UUIDLeast:648258,UUIDMost:655636,Slot:"mainhand"}]}
+scoreboard players set @s q 0
+kill @e[type=item,nbt={Item:{tag:{noael:1b}}}]

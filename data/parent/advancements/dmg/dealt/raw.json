@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "Damage Dealt": {
+      "trigger": "minecraft:player_hurt_entity"
+    }
+  },
+  "rewards": {
+    "function": "parent:advancements/dmg/dealt/raw"
+  }
+}

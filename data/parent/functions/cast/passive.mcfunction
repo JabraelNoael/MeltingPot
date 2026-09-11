@@ -1,0 +1,1 @@
+execute if entity @s[tag=!anti-ability,tag=!anti-passive] run function parent:cast/passive/1

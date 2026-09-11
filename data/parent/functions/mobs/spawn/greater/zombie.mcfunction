@@ -1,0 +1,3 @@
+tp @s ~ ~-257 ~
+summon zombie ~ ~ ~ {CanPickUpLoot:1b,Health:35f,CanBreakDoors:1b,Tags:["custommob","greater","mob.greaterzombie","rolled"],Passengers:[{id:"minecraft:silverfish",Silent:1b,Invulnerable:1b,NoAI:1b,Tags:["custommob","greater","mob.greaterzombie","rolled"],ActiveEffects:[{Id:14b,Amplifier:0b,Duration:20000000,ShowParticles:0b}]}],Attributes:[{Name:generic.maxHealth,Base:35},{Name:generic.attackDamage,Base:4}]}
+kill @e[tag=rollchance]

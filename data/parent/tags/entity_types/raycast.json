@@ -1,0 +1,20 @@
+{
+  "values": [
+	"#parent:projectiles",
+	"#parent:transportation",
+	"minecraft:area_effect_cloud",
+	"minecraft:armor_stand",
+	"minecraft:marker",
+	"minecraft:tnt",
+	"minecraft:leash_knot",
+	"minecraft:end_crystal",
+	"minecraft:evoker_fangs",
+	"minecraft:experience_orb",
+	"minecraft:eye_of_ender",
+	"minecraft:falling_block",
+	"minecraft:item",
+	"minecraft:item_frame",
+	"minecraft:glow_item_frame",
+	"minecraft:painting"
+  ]
+}

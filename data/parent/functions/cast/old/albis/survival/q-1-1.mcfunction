@@ -1,0 +1,3 @@
+execute if entity @e[tag=aec.albis.q-1] at @a[tag=albis] as @e[team=!Friendly,nbt=!{Invulnerable:1b},type=!area_effect_cloud,type=!armor_stand,type=!item,type=!item_frame,type=!painting,type=!experience_orb,distance=..24] run effect give @s glowing 1 0 true
+execute if entity @e[tag=aec.albis.q-1] at @a[tag=albis] as @e[team=!Friendly,nbt=!{Invulnerable:1b},type=!area_effect_cloud,type=!armor_stand,type=!item,type=!item_frame,type=!painting,type=!experience_orb,distance=24.1..26] run effect clear @s glowing
+execute if entity @e[tag=aec.albis.q-1] run schedule function parent:classes/albis/survival/q-1-1 1t

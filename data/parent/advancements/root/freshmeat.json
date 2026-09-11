@@ -1,0 +1,21 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:zombie_head"
+    },
+    "title": "AGame",
+    "description": "Load into the game",
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "function": "parent:advancements/freshmeat"
+  }
+}

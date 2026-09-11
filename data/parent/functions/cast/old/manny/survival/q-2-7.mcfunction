@@ -1,0 +1,11 @@
+execute as @e[tag=aec.manny.q-2] at @s run tp @s ^ ^ ^.9 facing entity @e[tag=marker.manny.q-2,limit=1,sort=nearest]
+execute at @e[tag=aec.manny.q-2] run particle block water ~ ~ ~ 1.35 0 1.35 0 10
+execute at @e[tag=aec.manny.q-2] as @e[team=!Friendly,nbt=!{Invulnerable:1b},type=!armor_stand,type=!area_effect_cloud,type=!item,type=!item_frame,type=!painting,tag=marked.manny.q-2] run teleport @s @e[tag=aec.manny.q-2,limit=1]
+execute at @e[tag=aec.manny.q-2] as @e[team=!Friendly,nbt=!{Invulnerable:1b},type=!armor_stand,type=!area_effect_cloud,type=!item,type=!item_frame,type=!painting,distance=..4.5] run teleport @s @e[tag=aec.manny.q-2,limit=1]
+execute at @e[tag=aec.manny.q-2] as @e[team=!Friendly,nbt=!{Invulnerable:1b},type=!armor_stand,type=!area_effect_cloud,type=!item,type=!item_frame,type=!painting,tag=!marked.manny.q-2,distance=..4.5] store result score @s mobhealth run data get entity @s Health
+execute at @e[tag=aec.manny.q-2] as @e[team=!Friendly,nbt=!{Invulnerable:1b},type=!armor_stand,type=!area_effect_cloud,type=!item,type=!item_frame,type=!painting,tag=!marked.manny.q-2,distance=..4.5] run scoreboard players remove @s mobhealth 6
+execute at @e[tag=aec.manny.q-2] as @e[team=!Friendly,nbt=!{Invulnerable:1b},type=!armor_stand,type=!area_effect_cloud,type=!item,type=!item_frame,type=!painting,tag=!marked.manny.q-2,distance=..4.5] if score @s mobhealth matches ..0 run kill @s
+execute at @e[tag=aec.manny.q-2] as @e[team=!Friendly,nbt=!{Invulnerable:1b},type=!armor_stand,type=!area_effect_cloud,type=!item,type=!item_frame,type=!painting,tag=!marked.manny.q-2,distance=..4.5] store result entity @s Health float 1 run scoreboard players remove @s mobhealth 0
+execute at @e[tag=aec.manny.q-2] as @e[team=!Friendly,nbt=!{Invulnerable:1b},type=!armor_stand,type=!area_effect_cloud,type=!item,type=!item_frame,type=!painting,tag=!marked.manny.q-2,distance=..4.5] run tag @s add marked.manny.q-2
+execute at @e[tag=marker.manny.q-2] run kill @e[tag=aec.manny.q-2,distance=..1.5]
+execute if entity @e[tag=marker.manny.q-2] run schedule function parent:classes/manny/survival/q-2-7 1t

@@ -1,0 +1,10 @@
+execute as @e[tag=aec.manny.mb2-0] at @s run tp @s ^ ^ ^.9 facing entity @e[tag=marker.manny.mb2-0,limit=1,sort=nearest]
+execute at @e[tag=aec.manny.mb2-0] run particle cloud ~ ~ ~ 1.35 0 1.35 0 10
+execute at @e[tag=aec.manny.mb2-0] as @e[team=!Friendly,nbt=!{Invulnerable:1b},type=!armor_stand,type=!area_effect_cloud,type=!item,type=!item_frame,type=!painting,distance=..3.5] run teleport @s @e[tag=aec.manny.mb2-0,limit=1]
+execute at @e[tag=aec.manny.mb2-0,tag=damage.source] as @e[team=!Friendly,nbt=!{Invulnerable:1b},type=!armor_stand,type=!area_effect_cloud,type=!item,type=!item_frame,type=!painting,tag=!marked.manny.mb2-0,distance=..3.5] store result score @s mobhealth run data get entity @s Health
+execute at @e[tag=aec.manny.mb2-0,tag=damage.source] as @e[team=!Friendly,nbt=!{Invulnerable:1b},type=!armor_stand,type=!area_effect_cloud,type=!item,type=!item_frame,type=!painting,tag=!marked.manny.mb2-0,distance=..3.5] run scoreboard players remove @s mobhealth 3
+execute at @e[tag=aec.manny.mb2-0,tag=damage.source] as @e[team=!Friendly,nbt=!{Invulnerable:1b},type=!armor_stand,type=!area_effect_cloud,type=!item,type=!item_frame,type=!painting,tag=!marked.manny.mb2-0,distance=..3.5] if score @s mobhealth matches ..0 run kill @s
+execute at @e[tag=aec.manny.mb2-0,tag=damage.source] as @e[team=!Friendly,nbt=!{Invulnerable:1b},type=!armor_stand,type=!area_effect_cloud,type=!item,type=!item_frame,type=!painting,tag=!marked.manny.mb2-0,distance=..3.5] store result entity @s Health float 1 run scoreboard players remove @s mobhealth 0
+execute at @e[tag=aec.manny.mb2-0,tag=damage.source] run tag @e[team=!Friendly,nbt=!{Invulnerable:1b},type=!armor_stand,type=!area_effect_cloud,type=!item,type=!item_frame,type=!painting,distance=..3.5] add marked.manny.mb2-0
+execute at @e[tag=marker.manny.mb2-0] run kill @e[tag=aec.manny.mb2-0,distance=..1.5]
+execute if entity @e[tag=marker.manny.mb2-0] run schedule function parent:classes/manny/survival/mb2-0-3 1t
