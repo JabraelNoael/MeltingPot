@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "slots": {
+          "offhand": {
+            "predicates": {
+              "minecraft:custom_data": "{weapon:1b}"
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "detect:f"
+  }
+}
