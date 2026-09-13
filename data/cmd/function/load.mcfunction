@@ -24,3 +24,5 @@ gamerule minecraft:spawn_wardens false
 gamerule minecraft:spawner_blocks_work false
 gamerule minecraft:spectators_generate_chunks true
 gamerule minecraft:universal_anger true
+# objectives
+scoreboard objectives add drop minecraft.dropped:minecraft.command_block
