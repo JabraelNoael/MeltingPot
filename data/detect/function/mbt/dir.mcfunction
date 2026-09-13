@@ -1,2 +1,2 @@
-$data modify storage detect:tmp2 secondary set from storage data:player$(player) secondary
-function detect:mbt/route with storage detect:tmp2
+$data modify storage tmp:secondary secondary set from storage data:player$(player) secondary
+function detect:mbt/route with storage tmp:secondary

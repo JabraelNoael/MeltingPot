@@ -1,1 +1,2 @@
-give @s command_block[minecraft:custom_data={weapon:1b},food={nutrition:0,saturation:0,can_always_eat:true},consumable={consume_seconds:2147483647,animation:"none"},minecraft:max_stack_size=1]
+data modify storage tmp:give_weapon target set value "weapon.mainhand"
+function cmd:give_weapon/item with storage tmp:give_weapon

@@ -1,0 +1,1 @@
+execute store result storage tmp:player_id player int 1 run scoreboard players get @s player

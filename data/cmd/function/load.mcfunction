@@ -26,3 +26,5 @@ gamerule minecraft:spectators_generate_chunks true
 gamerule minecraft:universal_anger true
 # objectives
 scoreboard objectives add drop minecraft.dropped:minecraft.command_block
+scoreboard objectives add dummy dummy
+scoreboard objectives add player dummy
