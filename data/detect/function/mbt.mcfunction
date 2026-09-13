@@ -1,4 +1,4 @@
-advancement revoke @s only detect:mbt
-function detect:retrieve/player_id
-function detect:mbt/dir with storage detect:tmp
+advancement revoke @s only detect:advancement/mbt
+function retrieve:player_id
+function detect:mbt/dir with storage tmp:player_id
 say mbt

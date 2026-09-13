@@ -1,0 +1,1 @@
+$item replace entity @s $(target) with command_block[minecraft:custom_data={weapon:1b},food={nutrition:0,saturation:0,can_always_eat:true},consumable={consume_seconds:2147483647,animation:"none"},use_effects={speed_multiplier:1.0,can_sprint:true},minecraft:max_stack_size=1]
