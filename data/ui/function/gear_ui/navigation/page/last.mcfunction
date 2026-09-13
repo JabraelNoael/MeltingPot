@@ -1,0 +1,3 @@
+scoreboard players operation @s page = @s page.max
+item replace block ~ ~ ~ container.24 with player_head{HideFlags:127,display:{Name:'{"text":"Last Page","italic":false}'},menu:1,SkullOwner:{Id:[I;-720120218,160580295,-1700338408,-1472328904],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTliZjMyOTJlMTI2YTEwNWI1NGViYTcxM2FhMWIxNTJkNTQxYTFkODkzODgyOWM1NjM2NGQxNzhlZDIyYmYifX19"}]}}}
+function ui:gear_ui/reset

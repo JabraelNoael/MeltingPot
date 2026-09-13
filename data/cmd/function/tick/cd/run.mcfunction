@@ -1,0 +1,2 @@
+$execute as @a[scores={$(slot).cdc=2..}] run function cmd:tick/cd/apply {slot:"$(slot)"}
+$execute as @a unless entity @s[scores={$(slot).cd=0,$(slot).cdd=0}] run scoreboard players add @s $(slot).cdc 1

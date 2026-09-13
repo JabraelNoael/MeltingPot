@@ -28,3 +28,35 @@ gamerule minecraft:universal_anger true
 scoreboard objectives add drop minecraft.dropped:minecraft.command_block
 scoreboard objectives add dummy dummy
 scoreboard objectives add player dummy
+# resources
+scoreboard objectives add hp dummy
+scoreboard objectives add hp.max dummy
+scoreboard objectives add hp.tick dummy
+scoreboard objectives add hp.tick.max dummy
+scoreboard objectives add mana dummy
+scoreboard objectives add mana.max dummy
+scoreboard objectives add mana.tick dummy
+scoreboard objectives add mana.tick.max dummy
+# ability cooldowns (secondary=mbt, utility=f, ultimate=q, primary=mbo)
+scoreboard objectives add secondary.cd dummy
+scoreboard objectives add secondary.cdc dummy
+scoreboard objectives add secondary.cdd dummy
+scoreboard objectives add utility.cd dummy
+scoreboard objectives add utility.cdc dummy
+scoreboard objectives add utility.cdd dummy
+scoreboard objectives add ultimate.cd dummy
+scoreboard objectives add ultimate.cdc dummy
+scoreboard objectives add ultimate.cdd dummy
+scoreboard objectives add primary.cd dummy
+scoreboard objectives add primary.cdc dummy
+scoreboard objectives add primary.cdd dummy
+# create/ tooling
+scoreboard objectives add create dummy
+scoreboard objectives add page dummy
+scoreboard objectives add page.max dummy
+scoreboard objectives add category dummy
+scoreboard objectives add category.max dummy
+data modify storage ui:gear_ui/clear Items set value [{Slot:0b,id:"minecraft:air"},{Slot:1b,id:"minecraft:air"},{Slot:2b,id:"minecraft:air"},{Slot:3b,id:"minecraft:air"},{Slot:4b,id:"minecraft:air"},{Slot:5b,id:"minecraft:air"},{Slot:6b,id:"minecraft:air"},{Slot:7b,id:"minecraft:air"},{Slot:8b,id:"minecraft:air"},{Slot:9b,id:"minecraft:air"},{Slot:10b,id:"minecraft:air"},{Slot:11b,id:"minecraft:air"},{Slot:12b,id:"minecraft:air"},{Slot:13b,id:"minecraft:air"},{Slot:14b,id:"minecraft:air"},{Slot:15b,id:"minecraft:air"},{Slot:16b,id:"minecraft:air"},{Slot:17b,id:"minecraft:air"}]
+scoreboard players set $gear category 10
+scoreboard players set $armor category 30
+scoreboard players set $abilities category 40

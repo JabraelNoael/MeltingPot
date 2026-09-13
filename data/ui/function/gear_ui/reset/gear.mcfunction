@@ -1,0 +1,9 @@
+item replace block ~ ~ ~ container.9 with stone_sword{HideFlags:127,display:{Name:'{"text":"Weapons","color":"yellow","italic":false}'},menu:1}
+item replace block ~ ~ ~ container.1 with chainmail_chestplate{HideFlags:127,display:{Name:'{"text":"Armor","color":"yellow","italic":false}'},menu:1}
+item replace block ~ ~ ~ container.11 with blaze_powder{HideFlags:127,display:{Name:'{"text":"Abilities","color":"yellow","italic":false}'},menu:1}
+item replace block ~ ~ ~ container.3 with chain{HideFlags:127,display:{Name:'{"text":"Accessories","color":"yellow","italic":false}'},menu:1}
+item replace block ~ ~ ~ container.13 with cobweb{HideFlags:127,display:{Name:'{"text":"Utilities","color":"yellow","italic":false}'},menu:1}
+item replace block ~ ~ ~ container.5 with experience_bottle{HideFlags:127,display:{Name:'{"text":"Runes","color":"yellow","italic":false}'},menu:1}
+item replace block ~ ~ ~ container.15 with sweet_berries{HideFlags:127,display:{Name:'{"text":"Food","color":"yellow","italic":false}'},menu:1}
+item replace block ~ ~ ~ container.7 with pufferfish{HideFlags:127,display:{Name:'{"text":"Pets","color":"yellow","italic":false}'},menu:1}
+item replace block ~ ~ ~ container.17 with crossbow{HideFlags:127,display:{Name:'{"text":"Deployables","color":"yellow","italic":false}'},menu:1}
