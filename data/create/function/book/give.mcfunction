@@ -1,0 +1,1 @@
+give @s writable_book[writable_book_content={pages:["translate.x whole","translate.x decimal","translate.y whole","translate.y decimal","translate.z whole","translate.z decimal","scale.x whole","scale.x decimal","scale.y whole","scale.y decimal","scale.z whole","scale.z decimal"]}]

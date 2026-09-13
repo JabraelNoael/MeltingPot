@@ -52,6 +52,8 @@ scoreboard objectives add primary.cdc dummy
 scoreboard objectives add primary.cdd dummy
 # create/ tooling
 scoreboard objectives add create dummy
+scoreboard objectives add book.whole dummy
+scoreboard objectives add book.decimal dummy
 scoreboard objectives add page dummy
 scoreboard objectives add page.max dummy
 scoreboard objectives add category dummy
